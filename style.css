@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(0, 247, 255, 0.747);
+    color: black;
+}
+nav {
+    text-align: center;
+}
+nav a{
+    color: brown;
+    text-decoration: none;
+
+}
+
+div img{
+    width: 800px;
+    height: 400px;
+}
